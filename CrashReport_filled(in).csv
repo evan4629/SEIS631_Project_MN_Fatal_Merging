@@ -1,0 +1,909 @@
+State,Interstate,Junction,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,Total
+Alabama,Interstate,Junction,1,0,2,1,0,1,1,1,0,0,1,8
+Alabama,Interstate,Non-Junction,71,78,82,118,103,89,97,98,125,113,106,1080
+Alabama,Interstate,Other,18,16,10,16,8,12,11,15,8,11,15,140
+Alabama,Interstate,Total,90,94,94,135,111,102,109,114,133,124,122,1228
+Alabama,Non-Interstate,Junction,111,112,144,176,137,154,170,173,158,175,131,1641
+Alabama,Non-Interstate,Non-Junction,530,501,504,630,574,576,535,533,542,574,584,6083
+Alabama,Non-Interstate,Other,31,37,42,38,42,44,42,31,52,39,53,451
+Alabama,Non-Interstate,Total,672,650,690,844,753,774,747,737,752,788,768,8175
+Alabama,Unknown,Junction,0,1,0,0,0,0,0,0,0,0,0,1
+Alabama,Unknown,Non-Junction,4,2,0,0,0,0,0,1,0,1,3,11
+Alabama,Unknown,Other,1,0,0,0,0,0,0,0,0,0,0,1
+Alabama,Unknown,Total,5,3,0,0,0,0,0,1,0,1,3,13
+Alabama,Total,Junction,112,113,146,177,137,155,171,174,158,175,132,1650
+Alabama,Total,Non-Junction,605,581,586,748,677,665,632,632,667,688,693,7174
+Alabama,Total,Other,50,53,52,54,50,56,53,46,60,50,68,592
+Alabama,Total,Total,767,747,784,979,864,876,856,852,885,913,893,9416
+Alaska,Interstate,Junction,1,0,4,3,2,1,1,3,0,4,1,20
+Alaska,Interstate,Non-Junction,16,17,16,22,23,19,12,16,15,24,17,197
+Alaska,Interstate,Other,0,1,2,1,1,2,2,0,1,4,2,16
+Alaska,Interstate,Total,17,18,22,26,26,22,15,19,16,32,20,233
+Alaska,Non-Interstate,Junction,7,15,9,9,14,15,9,12,16,13,11,130
+Alaska,Non-Interstate,Non-Junction,23,31,25,41,34,26,36,19,28,27,23,313
+Alaska,Non-Interstate,Other,2,3,3,1,0,5,1,3,2,3,1,24
+Alaska,Non-Interstate,Unknown,0,0,0,0,0,1,0,0,0,0,0,1
+Alaska,Non-Interstate,Total,32,49,37,51,48,47,46,34,46,43,35,468
+Alaska,Unknown,Junction,0,0,0,0,0,0,1,0,0,0,0,1
+Alaska,Unknown,Non-Junction,0,1,1,1,0,0,0,0,0,0,0,3
+Alaska,Unknown,Unknown,0,0,0,0,1,0,0,0,0,0,1,2
+Alaska,Unknown,Total,0,1,1,1,1,0,1,0,0,0,1,6
+Alaska,Total,Junction,8,15,13,12,16,16,11,15,16,17,12,151
+Alaska,Total,Non-Junction,39,49,42,64,57,45,48,35,43,51,40,513
+Alaska,Total,Other,2,4,5,2,1,7,3,3,3,7,3,40
+Alaska,Total,Unknown,0,0,0,0,1,1,0,0,0,0,1,3
+Alaska,Total,Total,49,68,60,78,75,69,62,53,62,75,56,707
+Arizona,Interstate,Junction,0,2,1,0,3,4,0,2,1,3,1,17
+Arizona,Interstate,Non-Junction,82,59,77,77,87,105,104,101,42,82,8,824
+Arizona,Interstate,Other,44,25,40,31,40,26,11,6,25,51,4,303
+Arizona,Interstate,Unknown,0,0,2,0,0,1,0,1,0,0,0,4
+Arizona,Interstate,Total,126,86,120,108,130,136,115,110,68,136,13,1148
+Arizona,Non-Interstate,Junction,227,201,234,253,264,257,239,256,289,364,391,2975
+Arizona,Non-Interstate,Non-Junction,332,327,371,404,435,413,404,438,583,533,617,4857
+Arizona,Non-Interstate,Other,58,42,51,61,51,55,55,41,63,69,83,629
+Arizona,Non-Interstate,Unknown,33,47,32,25,30,38,37,25,29,51,50,397
+Arizona,Non-Interstate,Total,650,617,688,743,780,763,735,760,964,1017,1141,8858
+Arizona,Unknown,Junction,0,0,0,0,0,1,13,8,4,1,3,30
+Arizona,Unknown,Non-Junction,1,1,0,0,0,8,31,48,19,19,14,141
+Arizona,Unknown,Other,0,1,0,0,0,0,0,2,1,1,0,5
+Arizona,Unknown,Unknown,5,3,3,5,7,10,14,38,20,26,24,155
+Arizona,Unknown,Total,6,5,3,5,7,19,58,96,44,47,41,331
+Arizona,Total,Junction,227,203,235,253,267,262,252,266,294,368,395,3022
+Arizona,Total,Non-Junction,415,387,448,481,522,526,539,587,644,634,639,5822
+Arizona,Total,Other,102,68,91,92,91,81,66,49,89,121,87,937
+Arizona,Total,Unknown,38,50,37,30,37,49,51,64,49,77,74,556
+Arizona,Total,Total,782,708,811,856,917,918,908,966,1076,1200,1195,10337
+Arkansas,Interstate,Junction,0,0,0,0,1,0,0,2,1,0,1,5
+Arkansas,Interstate,Non-Junction,45,46,56,52,78,58,62,72,84,81,87,721
+Arkansas,Interstate,Other,7,6,9,9,2,11,3,4,9,9,6,75
+Arkansas,Interstate,Unknown,0,0,0,0,0,0,0,1,0,0,0,1
+Arkansas,Interstate,Total,52,52,65,61,81,69,65,79,94,90,94,802
+Arkansas,Non-Interstate,Junction,81,74,76,75,51,66,63,84,102,98,79,849
+Arkansas,Non-Interstate,Non-Junction,294,281,323,337,329,319,316,408,395,349,334,3685
+Arkansas,Non-Interstate,Other,32,28,24,31,25,22,28,23,39,39,33,324
+Arkansas,Non-Interstate,Unknown,0,0,0,0,0,0,0,0,0,1,1,2
+Arkansas,Non-Interstate,Total,407,383,423,443,405,407,407,515,536,487,447,4860
+Arkansas,Unknown,Junction,0,0,1,0,0,0,0,0,0,0,1,2
+Arkansas,Unknown,Non-Junction,1,1,1,0,0,0,1,4,0,0,0,8
+Arkansas,Unknown,Other,0,0,1,0,0,0,0,0,0,0,0,1
+Arkansas,Unknown,Total,1,1,3,0,0,0,1,4,0,0,1,11
+Arkansas,Total,Junction,81,74,77,75,52,66,63,86,103,98,81,856
+Arkansas,Total,Non-Junction,340,328,380,389,407,377,379,484,479,430,421,4414
+Arkansas,Total,Other,39,34,34,40,27,33,31,27,48,48,39,400
+Arkansas,Total,Unknown,0,0,0,0,0,0,0,1,0,1,1,3
+Arkansas,Total,Total,460,436,491,504,486,476,473,598,630,577,542,5673
+California,Interstate,Junction,2,3,6,4,6,3,13,8,8,9,6,68
+California,Interstate,Non-Junction,278,301,292,406,346,372,355,400,458,372,324,3904
+California,Interstate,Other,71,100,98,86,88,109,96,94,161,217,170,1290
+California,Interstate,Unknown,0,0,0,0,2,0,0,0,1,2,0,5
+California,Interstate,Total,351,404,396,496,442,484,464,502,628,600,500,5267
+California,Non-Interstate,Junction,736,747,826,964,956,943,991,949,1035,1114,954,10215
+California,Non-Interstate,Non-Junction,1610,1542,1710,1897,1950,1848,1794,2041,2265,2199,1969,20825
+California,Non-Interstate,Other,163,158,188,182,213,203,174,177,254,280,274,2266
+California,Non-Interstate,Unknown,0,4,2,1,2,5,2,4,12,14,18,64
+California,Non-Interstate,Total,2509,2451,2726,3044,3121,2999,2961,3171,3566,3607,3215,33370
+California,Unknown,Junction,0,1,0,0,1,0,2,0,0,2,2,8
+California,Unknown,Non-Junction,0,2,1,0,5,2,0,0,2,8,9,29
+California,Unknown,Other,0,0,0,0,0,0,0,0,0,1,1,2
+California,Unknown,Unknown,0,1,0,0,0,0,0,0,0,0,0,1
+California,Unknown,Total,0,4,1,0,6,2,2,0,2,11,12,40
+California,Total,Junction,738,751,832,968,963,946,1006,957,1043,1125,962,10291
+California,Total,Non-Junction,1888,1845,2003,2303,2301,2222,2149,2441,2725,2579,2302,24758
+California,Total,Other,234,258,286,268,301,312,270,271,415,498,445,3558
+California,Total,Unknown,0,5,2,1,4,5,2,4,13,16,18,70
+California,Total,Total,2860,2859,3123,3540,3569,3485,3427,3673,4196,4218,3727,38677
+Colorado,Interstate,Junction,2,0,0,1,0,3,3,3,1,0,0,13
+Colorado,Interstate,Non-Junction,56,47,58,67,62,55,48,45,81,81,48,648
+Colorado,Interstate,Other,25,22,28,19,30,31,22,31,29,29,35,301
+Colorado,Interstate,Total,83,69,86,87,92,89,73,79,111,110,83,962
+Colorado,Non-Interstate,Junction,107,117,144,186,177,199,166,185,185,208,216,1890
+Colorado,Non-Interstate,Non-Junction,218,239,249,254,308,272,284,280,313,345,319,3081
+Colorado,Non-Interstate,Other,24,26,26,31,21,28,19,29,27,33,46,310
+Colorado,Non-Interstate,Total,349,382,419,471,506,499,469,494,525,586,581,5281
+Colorado,Unknown,Junction,0,0,0,0,0,0,1,0,0,1,0,2
+Colorado,Unknown,Non-Junction,0,0,1,0,2,0,2,1,0,2,2,10
+Colorado,Unknown,Other,0,0,1,0,0,0,0,0,2,0,0,3
+Colorado,Unknown,Total,0,0,2,0,2,0,3,1,2,3,2,15
+Colorado,Total,Junction,109,117,144,187,177,202,170,188,186,209,216,1905
+Colorado,Total,Non-Junction,274,286,308,321,372,327,334,326,394,428,369,3739
+Colorado,Total,Other,49,48,55,50,51,59,41,60,58,62,81,614
+Colorado,Total,Total,432,451,507,558,600,588,545,574,638,699,666,6258
+Connecticut,Interstate,Junction,3,1,1,3,2,0,0,2,1,3,0,16
+Connecticut,Interstate,Non-Junction,19,14,21,31,22,31,24,21,29,39,37,288
+Connecticut,Interstate,Other,17,25,28,13,9,14,9,22,20,19,12,188
+Connecticut,Interstate,Total,39,40,50,47,33,45,33,45,50,61,49,492
+Connecticut,Non-Interstate,Junction,67,47,51,60,67,59,50,64,65,73,61,664
+Connecticut,Non-Interstate,Non-Junction,131,126,144,153,144,150,135,139,149,169,161,1601
+Connecticut,Non-Interstate,Other,27,20,9,26,17,17,12,34,22,25,17,226
+Connecticut,Non-Interstate,Unknown,0,1,0,0,0,1,0,0,0,0,0,2
+Connecticut,Non-Interstate,Total,225,194,204,239,228,227,197,237,236,267,239,2493
+Connecticut,Unknown,Junction,1,0,0,0,0,0,0,0,0,0,1,2
+Connecticut,Unknown,Non-Junction,0,0,3,4,2,3,3,1,2,4,0,22
+Connecticut,Unknown,Other,0,0,0,2,0,0,0,1,0,0,0,3
+Connecticut,Unknown,Total,1,0,3,6,2,3,3,2,2,4,1,27
+Connecticut,Total,Junction,71,48,52,63,69,59,50,66,66,76,62,682
+Connecticut,Total,Non-Junction,150,140,168,188,168,184,162,161,180,212,198,1911
+Connecticut,Total,Other,44,45,37,41,26,31,21,57,42,44,29,417
+Connecticut,Total,Unknown,0,1,0,0,0,1,0,0,0,0,0,2
+Connecticut,Total,Total,265,234,257,292,263,275,233,284,288,332,289,3012
+Delaware,Interstate,Junction,0,0,0,0,0,0,0,1,0,0,0,1
+Delaware,Interstate,Non-Junction,5,4,4,5,3,5,5,9,4,13,6,63
+Delaware,Interstate,Other,1,1,4,1,2,3,3,2,3,3,2,25
+Delaware,Interstate,Total,6,5,8,6,5,8,8,12,7,16,8,89
+Delaware,Non-Interstate,Junction,25,24,35,37,39,22,39,27,50,46,36,380
+Delaware,Non-Interstate,Non-Junction,57,70,77,67,60,66,66,61,69,75,72,740
+Delaware,Non-Interstate,Other,5,10,7,6,7,8,8,2,6,6,10,75
+Delaware,Non-Interstate,Unknown,0,0,0,0,0,0,1,2,0,0,0,3
+Delaware,Non-Interstate,Total,87,104,119,110,106,96,114,92,125,127,118,1198
+Delaware,Unknown,Non-Junction,1,0,0,0,1,0,0,0,0,0,2,4
+Delaware,Total,Junction,25,24,35,37,39,22,39,28,50,46,36,381
+Delaware,Total,Non-Junction,63,74,81,72,64,71,71,70,73,88,80,807
+Delaware,Total,Other,6,11,11,7,9,11,11,4,9,9,12,100
+Delaware,Total,Unknown,0,0,0,0,0,0,1,2,0,0,0,3
+Delaware,Total,Total,94,109,127,116,112,104,122,104,132,143,128,1291
+District of Columbia,Interstate,Non-Junction,3,2,1,3,0,0,1,2,1,0,2,15
+District of Columbia,Interstate,Other,0,0,0,0,0,1,0,1,0,1,3,6
+District of Columbia,Interstate,Total,3,2,1,3,0,1,1,3,1,1,5,21
+District of Columbia,Non-Interstate,Junction,10,10,10,10,10,18,12,13,23,16,16,148
+District of Columbia,Non-Interstate,Non-Junction,6,8,11,11,17,10,9,17,13,11,15,128
+District of Columbia,Non-Interstate,Other,1,1,1,1,1,1,0,1,3,0,3,13
+District of Columbia,Non-Interstate,Unknown,0,0,0,1,1,0,0,0,0,0,0,2
+District of Columbia,Non-Interstate,Total,17,19,22,23,29,29,21,31,39,27,34,291
+District of Columbia,Total,Junction,10,10,10,10,10,18,12,13,23,16,16,148
+District of Columbia,Total,Non-Junction,9,10,12,14,17,10,10,19,14,11,17,143
+District of Columbia,Total,Other,1,1,1,1,1,2,0,2,3,1,6,19
+District of Columbia,Total,Unknown,0,0,0,1,1,0,0,0,0,0,0,2
+District of Columbia,Total,Total,20,21,23,26,29,30,22,34,40,28,39,312
+Florida,Interstate,Junction,6,1,3,7,8,7,3,6,9,2,3,55
+Florida,Interstate,Non-Junction,187,168,215,232,196,218,247,256,243,218,240,2420
+Florida,Interstate,Other,51,17,26,52,58,51,33,59,73,77,44,541
+Florida,Interstate,Total,244,186,244,291,262,276,283,321,325,297,287,3016
+Florida,Non-Interstate,Junction,707,764,887,965,1057,1058,1024,1067,1180,1157,1078,10944
+Florida,Non-Interstate,Non-Junction,1167,1245,1316,1515,1467,1480,1522,1573,1803,1706,1639,16433
+Florida,Non-Interstate,Other,102,139,152,135,136,103,118,132,139,143,132,1431
+Florida,Non-Interstate,Unknown,1,1,1,3,3,0,3,2,2,3,1,20
+Florida,Non-Interstate,Total,1977,2149,2356,2618,2663,2641,2667,2774,3124,3009,2850,28828
+Florida,Unknown,Junction,0,0,36,2,0,0,0,0,0,0,10,48
+Florida,Unknown,Non-Junction,1,1,60,23,0,0,0,2,3,7,30,127
+Florida,Unknown,Other,1,0,3,1,0,0,2,0,1,2,6,16
+Florida,Unknown,Total,2,1,99,26,0,0,2,2,4,9,46,191
+Florida,Total,Junction,713,765,926,974,1065,1065,1027,1073,1189,1159,1091,11047
+Florida,Total,Non-Junction,1355,1414,1591,1770,1663,1698,1769,1831,2049,1931,1909,18980
+Florida,Total,Other,154,156,181,188,194,154,153,191,213,222,182,1988
+Florida,Total,Unknown,1,1,1,3,3,0,3,2,2,3,1,20
+Florida,Total,Total,2223,2336,2699,2935,2925,2917,2952,3097,3453,3315,3183,32035
+Georgia,Interstate,Junction,0,0,1,1,0,1,3,3,3,1,0,13
+Georgia,Interstate,Non-Junction,149,124,154,172,180,173,177,127,99,155,150,1660
+Georgia,Interstate,Other,13,11,14,13,26,17,29,56,40,94,74,387
+Georgia,Interstate,Unknown,0,0,0,0,0,0,0,3,0,0,0,3
+Georgia,Interstate,Total,162,135,169,186,206,191,209,189,142,250,224,2063
+Georgia,Non-Interstate,Junction,252,262,338,337,374,311,365,343,366,364,372,3684
+Georgia,Non-Interstate,Non-Junction,617,625,766,840,804,838,741,906,1072,976,830,9015
+Georgia,Non-Interstate,Other,50,57,56,61,56,66,62,76,99,87,65,735
+Georgia,Non-Interstate,Unknown,0,1,0,0,0,2,1,2,2,0,0,8
+Georgia,Non-Interstate,Total,919,945,1160,1238,1234,1217,1169,1327,1539,1427,1267,13442
+Georgia,Unknown,Junction,2,0,0,0,0,0,0,0,0,0,0,2
+Georgia,Unknown,Non-Junction,2,0,0,0,0,0,0,0,0,0,0,2
+Georgia,Unknown,Other,0,0,0,0,0,0,0,1,0,0,0,1
+Georgia,Unknown,Total,4,0,0,0,0,0,0,1,0,0,0,5
+Georgia,Total,Junction,254,262,339,338,374,312,368,346,369,365,372,3699
+Georgia,Total,Non-Junction,768,749,920,1012,984,1011,918,1033,1171,1131,980,10677
+Georgia,Total,Other,63,68,70,74,82,83,91,133,139,181,139,1123
+Georgia,Total,Unknown,0,1,0,0,0,2,1,5,2,0,0,11
+Georgia,Total,Total,1085,1080,1329,1424,1440,1408,1378,1517,1681,1677,1491,15510
+Hawaii,Interstate,Junction,0,0,0,0,1,0,1,0,0,0,0,2
+Hawaii,Interstate,Non-Junction,2,1,6,3,2,8,9,7,3,4,7,52
+Hawaii,Interstate,Other,5,4,0,1,1,1,0,2,0,0,4,18
+Hawaii,Interstate,Total,7,5,6,4,4,9,10,9,3,4,11,72
+Hawaii,Non-Interstate,Junction,20,29,23,30,29,32,20,21,21,24,19,268
+Hawaii,Non-Interstate,Non-Junction,60,57,50,72,59,58,69,49,68,77,48,667
+Hawaii,Non-Interstate,Other,6,3,6,2,4,11,2,2,0,5,8,49
+Hawaii,Non-Interstate,Unknown,0,0,0,0,0,0,0,0,0,0,1,1
+Hawaii,Non-Interstate,Total,86,89,79,104,92,101,91,72,89,106,76,985
+Hawaii,Unknown,Non-Junction,0,0,0,1,0,0,1,0,1,1,1,5
+Hawaii,Unknown,Other,0,0,0,0,0,0,0,0,1,0,0,1
+Hawaii,Unknown,Total,0,0,0,1,0,0,1,0,2,1,1,6
+Hawaii,Total,Junction,20,29,23,30,30,32,21,21,21,24,19,270
+Hawaii,Total,Non-Junction,62,58,56,76,61,66,79,56,72,82,56,724
+Hawaii,Total,Other,11,7,6,3,5,12,2,4,1,5,12,68
+Hawaii,Total,Unknown,0,0,0,0,0,0,0,0,0,0,1,1
+Hawaii,Total,Total,93,94,85,109,96,110,102,81,94,111,88,1063
+Idaho,Interstate,Junction,0,0,0,0,0,1,1,0,1,0,2,5
+Idaho,Interstate,Non-Junction,22,21,30,38,33,36,27,21,34,23,28,313
+Idaho,Interstate,Other,4,0,7,10,3,1,5,1,3,6,3,43
+Idaho,Interstate,Total,26,21,37,48,36,38,33,22,38,29,33,361
+Idaho,Non-Interstate,Junction,36,27,43,41,41,55,35,32,53,45,62,470
+Idaho,Non-Interstate,Non-Junction,114,97,108,123,133,113,128,132,150,113,136,1347
+Idaho,Non-Interstate,Other,11,7,9,8,13,9,4,2,4,7,11,85
+Idaho,Non-Interstate,Unknown,0,0,1,0,0,0,0,0,0,0,0,1
+Idaho,Non-Interstate,Total,161,131,161,172,187,177,167,166,207,165,209,1903
+Idaho,Unknown,Junction,1,3,0,1,0,0,0,0,1,0,0,6
+Idaho,Unknown,Non-Junction,11,19,0,11,1,0,1,0,0,0,0,43
+Idaho,Unknown,Other,1,1,0,0,0,0,0,0,0,0,0,2
+Idaho,Unknown,Total,13,23,0,12,1,0,1,0,1,0,0,51
+Idaho,Total,Junction,37,30,43,42,41,56,36,32,55,45,64,481
+Idaho,Total,Non-Junction,147,137,138,172,167,149,156,153,184,136,164,1703
+Idaho,Total,Other,16,8,16,18,16,10,9,3,7,13,14,130
+Idaho,Total,Unknown,0,0,1,0,0,0,0,0,0,0,0,1
+Idaho,Total,Total,200,175,198,232,224,215,201,188,246,194,242,2315
+Illinois,Interstate,Junction,2,1,0,2,1,2,1,1,2,4,0,16
+Illinois,Interstate,Non-Junction,84,67,79,91,107,104,77,104,132,146,104,1095
+Illinois,Interstate,Other,19,38,35,41,30,38,55,64,37,23,45,425
+Illinois,Interstate,Unknown,1,0,0,0,0,0,0,0,0,0,0,1
+Illinois,Interstate,Total,106,106,114,134,138,144,133,169,171,173,149,1537
+Illinois,Non-Interstate,Junction,225,239,265,335,314,262,266,285,343,332,375,3241
+Illinois,Non-Interstate,Non-Junction,529,450,486,482,476,504,486,570,636,590,575,5784
+Illinois,Non-Interstate,Other,35,45,49,46,67,40,47,53,53,46,44,525
+Illinois,Non-Interstate,Unknown,0,0,0,1,0,1,0,4,2,0,0,8
+Illinois,Non-Interstate,Total,789,734,800,864,857,807,799,912,1034,968,994,9558
+Illinois,Unknown,Junction,0,1,0,0,0,0,2,2,0,0,0,5
+Illinois,Unknown,Non-Junction,0,4,0,2,2,0,4,3,4,5,0,24
+Illinois,Unknown,Other,0,0,0,0,1,0,0,0,1,1,0,3
+Illinois,Unknown,Total,0,5,0,2,3,0,6,5,5,6,0,32
+Illinois,Total,Junction,227,241,265,337,315,264,269,288,345,336,375,3262
+Illinois,Total,Non-Junction,613,521,565,575,585,608,567,677,772,741,679,6903
+Illinois,Total,Other,54,83,84,87,98,78,102,117,91,70,89,953
+Illinois,Total,Unknown,1,0,0,1,0,1,0,4,2,0,0,9
+Illinois,Total,Total,895,845,914,1000,998,951,938,1086,1210,1147,1143,11127
+Indiana,Interstate,Non-Junction,77,65,76,79,67,70,84,77,87,101,82,865
+Indiana,Interstate,Other,1,11,4,9,10,10,9,12,11,13,10,100
+Indiana,Interstate,Total,78,76,80,88,77,80,93,89,98,114,92,965
+Indiana,Non-Interstate,Junction,177,179,203,201,242,179,190,209,237,230,237,2284
+Indiana,Non-Interstate,Non-Junction,423,412,442,461,488,483,445,500,499,535,482,5170
+Indiana,Non-Interstate,Other,32,37,27,25,29,33,21,17,27,31,31,310
+Indiana,Non-Interstate,Total,632,628,672,687,759,695,656,726,763,796,750,7764
+Indiana,Unknown,Junction,0,0,0,0,0,0,0,0,1,0,0,1
+Indiana,Unknown,Non-Junction,0,0,0,1,1,1,3,0,1,1,0,8
+Indiana,Unknown,Other,0,0,0,0,1,0,0,0,0,0,0,1
+Indiana,Unknown,Total,0,0,0,1,2,1,3,0,2,1,0,10
+Indiana,Total,Junction,177,179,203,201,242,179,190,209,238,230,237,2285
+Indiana,Total,Non-Junction,500,477,518,541,556,554,532,577,587,637,564,6043
+Indiana,Total,Other,33,48,31,34,40,43,30,29,38,44,41,411
+Indiana,Total,Total,710,704,752,776,838,776,752,815,863,911,842,8739
+Iowa,Interstate,Junction,0,1,0,0,0,1,0,2,0,2,2,8
+Iowa,Interstate,Non-Junction,32,20,23,39,20,24,31,23,23,31,39,305
+Iowa,Interstate,Other,2,3,6,2,7,10,6,7,7,5,10,65
+Iowa,Interstate,Total,34,24,29,41,27,35,37,32,30,38,51,378
+Iowa,Non-Interstate,Junction,70,75,82,95,81,76,88,100,81,61,79,888
+Iowa,Non-Interstate,Non-Junction,170,168,155,203,177,163,168,168,201,183,183,1939
+Iowa,Non-Interstate,Other,15,21,16,16,16,17,19,10,15,21,15,181
+Iowa,Non-Interstate,Unknown,0,0,0,0,0,0,1,0,0,0,0,1
+Iowa,Non-Interstate,Total,255,264,253,314,274,256,276,278,297,265,277,3009
+Iowa,Unknown,Non-Junction,1,0,0,0,0,0,0,0,2,1,0,4
+Iowa,Unknown,Other,0,0,0,0,0,0,0,0,0,1,0,1
+Iowa,Unknown,Total,1,0,0,0,0,0,0,0,2,2,0,5
+Iowa,Total,Junction,70,76,82,95,81,77,88,102,81,63,81,896
+Iowa,Total,Non-Junction,203,188,178,242,197,187,199,191,226,215,222,2248
+Iowa,Total,Other,17,24,22,18,23,27,25,17,22,27,25,247
+Iowa,Total,Unknown,0,0,0,0,0,0,1,0,0,0,0,1
+Iowa,Total,Total,290,288,282,355,301,291,313,310,329,305,328,3392
+Kansas,Interstate,Junction,1,0,0,0,1,1,0,0,0,1,1,5
+Kansas,Interstate,Non-Junction,29,19,17,35,27,45,28,23,35,37,36,331
+Kansas,Interstate,Other,11,8,13,13,19,12,19,19,17,14,5,150
+Kansas,Interstate,Total,41,27,30,48,47,58,47,42,52,52,42,486
+Kansas,Non-Interstate,Junction,63,75,65,99,96,87,81,98,103,93,90,950
+Kansas,Non-Interstate,Non-Junction,213,229,216,217,238,200,206,224,198,204,205,2350
+Kansas,Non-Interstate,Other,10,10,11,15,25,17,26,18,24,14,14,184
+Kansas,Non-Interstate,Unknown,0,0,0,0,0,2,0,0,0,0,0,2
+Kansas,Non-Interstate,Total,286,314,292,331,359,306,313,340,325,311,309,3486
+Kansas,Unknown,Junction,0,0,0,0,0,0,0,0,0,0,1,1
+Kansas,Unknown,Non-Junction,0,0,0,2,1,2,0,0,3,1,1,10
+Kansas,Unknown,Other,0,0,0,0,0,1,1,0,0,0,0,2
+Kansas,Unknown,Total,0,0,0,2,1,3,1,0,3,1,2,13
+Kansas,Total,Junction,64,75,65,99,97,88,81,98,103,94,92,956
+Kansas,Total,Non-Junction,242,248,233,254,266,247,234,247,236,242,242,2691
+Kansas,Total,Other,21,18,24,28,44,30,46,37,41,28,19,336
+Kansas,Total,Unknown,0,0,0,0,0,2,0,0,0,0,0,2
+Kansas,Total,Total,327,341,322,381,407,367,361,382,380,364,353,3985
+Kentucky,Interstate,Junction,0,0,1,1,0,2,0,0,1,1,0,6
+Kentucky,Interstate,Non-Junction,52,39,64,79,58,63,59,77,77,42,54,664
+Kentucky,Interstate,Other,9,10,5,11,12,8,13,8,6,27,16,125
+Kentucky,Interstate,Total,61,49,70,91,70,73,72,85,84,70,70,795
+Kentucky,Non-Interstate,Junction,109,107,113,138,167,119,137,129,151,165,167,1502
+Kentucky,Non-Interstate,Non-Junction,395,422,471,507,442,433,414,467,468,419,496,4934
+Kentucky,Non-Interstate,Other,25,34,39,26,41,35,43,25,30,36,33,367
+Kentucky,Non-Interstate,Unknown,0,0,0,0,0,1,1,0,0,1,0,3
+Kentucky,Non-Interstate,Total,529,563,623,671,650,588,595,621,649,621,696,6806
+Kentucky,Unknown,Junction,0,0,1,1,1,2,0,3,0,0,0,8
+Kentucky,Unknown,Non-Junction,0,0,0,0,0,0,0,0,1,2,1,4
+Kentucky,Unknown,Other,0,0,0,0,0,1,0,0,0,0,0,1
+Kentucky,Unknown,Total,0,0,1,1,1,3,0,3,1,2,1,13
+Kentucky,Total,Junction,109,107,115,140,168,123,137,132,152,166,167,1516
+Kentucky,Total,Non-Junction,447,461,535,586,500,496,473,544,546,463,551,5602
+Kentucky,Total,Other,34,44,44,37,53,44,56,33,36,63,49,493
+Kentucky,Total,Unknown,0,0,0,0,0,1,1,0,0,1,0,3
+Kentucky,Total,Total,590,612,694,763,721,664,667,709,734,693,767,7614
+Louisiana,Interstate,Junction,1,1,3,1,0,1,0,2,2,1,5,17
+Louisiana,Interstate,Non-Junction,81,78,70,87,74,81,71,76,122,88,106,934
+Louisiana,Interstate,Other,21,20,16,19,30,20,12,20,22,29,20,229
+Louisiana,Interstate,Unknown,0,1,0,0,0,0,1,0,0,0,0,2
+Louisiana,Interstate,Total,103,100,89,107,104,102,84,98,146,118,131,1182
+Louisiana,Non-Interstate,Junction,111,144,143,129,140,116,140,162,167,192,142,1586
+Louisiana,Non-Interstate,Non-Junction,384,389,412,420,423,462,422,461,529,501,408,4811
+Louisiana,Non-Interstate,Other,51,28,46,43,35,39,34,37,40,38,40,431
+Louisiana,Non-Interstate,Unknown,0,1,1,1,1,0,1,1,2,2,0,10
+Louisiana,Non-Interstate,Total,546,562,602,593,599,617,597,661,738,733,590,6838
+Louisiana,Unknown,Junction,1,1,1,0,0,0,0,0,0,0,8,11
+Louisiana,Unknown,Non-Junction,1,2,5,4,1,0,0,3,2,1,26,45
+Louisiana,Unknown,Other,0,0,1,0,1,0,0,0,0,0,0,2
+Louisiana,Unknown,Total,2,3,7,4,2,0,0,3,2,1,34,58
+Louisiana,Total,Junction,113,146,147,130,140,117,140,164,169,193,155,1614
+Louisiana,Total,Non-Junction,466,469,487,511,498,543,493,540,653,590,540,5790
+Louisiana,Total,Other,72,48,63,62,66,59,46,57,62,67,60,662
+Louisiana,Total,Unknown,0,2,1,1,1,0,2,1,2,2,0,12
+Louisiana,Total,Total,651,665,698,704,705,719,681,762,886,852,755,8078
+Maine,Interstate,Junction,0,0,0,0,0,1,0,0,0,0,0,1
+Maine,Interstate,Non-Junction,6,3,4,3,9,8,11,8,6,11,11,80
+Maine,Interstate,Other,2,0,1,0,3,1,1,2,4,3,0,17
+Maine,Interstate,Total,8,3,5,3,12,10,12,10,10,14,11,98
+Maine,Non-Interstate,Junction,15,11,21,20,30,15,25,34,16,25,14,226
+Maine,Non-Interstate,Non-Junction,109,90,114,115,107,95,103,96,106,128,98,1161
+Maine,Non-Interstate,Other,4,4,3,9,12,7,3,10,2,2,4,60
+Maine,Non-Interstate,Unknown,0,2,1,1,0,0,0,0,0,0,0,4
+Maine,Non-Interstate,Total,128,107,139,145,149,117,131,140,124,155,116,1451
+Maine,Unknown,Junction,0,1,0,0,0,0,0,0,0,0,0,1
+Maine,Unknown,Non-Junction,0,4,0,2,2,0,0,1,1,2,0,12
+Maine,Unknown,Total,0,5,0,2,2,0,0,1,1,2,0,13
+Maine,Total,Junction,15,12,21,20,30,16,25,34,16,25,14,228
+Maine,Total,Non-Junction,115,97,118,120,118,103,114,105,113,141,109,1253
+Maine,Total,Other,6,4,4,9,15,8,4,12,6,5,4,77
+Maine,Total,Unknown,0,2,1,1,0,0,0,0,0,0,0,4
+Maine,Total,Total,136,115,144,150,163,127,143,151,135,171,127,1562
+Maryland,Interstate,Junction,0,0,1,0,0,0,0,0,0,1,0,2
+Maryland,Interstate,Non-Junction,47,43,44,58,54,61,59,47,62,72,62,609
+Maryland,Interstate,Other,5,8,9,8,4,2,7,9,6,8,12,78
+Maryland,Interstate,Total,52,51,54,66,58,63,66,56,68,81,74,689
+Maryland,Non-Interstate,Junction,89,120,127,127,160,128,148,171,150,148,177,1545
+Maryland,Non-Interstate,Non-Junction,275,229,262,268,259,255,243,295,273,278,281,2918
+Maryland,Non-Interstate,Other,11,14,20,17,31,29,32,21,22,25,35,257
+Maryland,Non-Interstate,Unknown,0,1,0,0,2,2,0,0,0,1,1,7
+Maryland,Non-Interstate,Total,375,364,409,412,452,414,423,487,445,452,494,4727
+Maryland,Unknown,Junction,1,0,4,0,2,2,2,1,2,0,5,19
+Maryland,Unknown,Non-Junction,3,1,11,4,5,5,5,2,9,1,4,50
+Maryland,Unknown,Other,0,0,0,1,0,1,0,0,0,0,0,2
+Maryland,Unknown,Unknown,0,0,1,1,1,0,0,0,0,0,0,3
+Maryland,Unknown,Total,4,1,16,6,8,8,7,3,11,1,9,74
+Maryland,Total,Junction,90,120,132,127,162,130,150,172,152,149,182,1566
+Maryland,Total,Non-Junction,325,273,317,330,318,321,307,344,344,351,347,3577
+Maryland,Total,Other,16,22,29,26,35,32,39,30,28,33,47,337
+Maryland,Total,Unknown,0,1,1,1,3,2,0,0,0,1,1,10
+Maryland,Total,Total,431,416,479,484,518,485,496,546,524,534,577,5490
+Massachusetts,Interstate,Junction,3,0,0,0,0,1,1,0,0,1,0,6
+Massachusetts,Interstate,Non-Junction,29,52,42,45,39,42,51,36,48,44,37,465
+Massachusetts,Interstate,Other,15,8,5,10,5,13,6,20,23,23,13,141
+Massachusetts,Interstate,Unknown,3,0,0,0,0,0,0,0,0,0,0,3
+Massachusetts,Interstate,Total,50,60,47,55,44,56,58,56,71,68,50,615
+Massachusetts,Non-Interstate,Junction,96,73,73,89,87,113,79,74,98,93,74,949
+Massachusetts,Non-Interstate,Non-Junction,161,179,182,193,182,148,174,162,202,219,184,1986
+Massachusetts,Non-Interstate,Other,21,23,20,19,17,19,9,35,20,29,17,229
+Massachusetts,Non-Interstate,Unknown,3,1,4,0,3,1,3,0,2,0,0,17
+Massachusetts,Non-Interstate,Total,281,276,279,301,289,281,265,271,322,341,275,3181
+Massachusetts,Unknown,Junction,1,0,0,0,0,0,0,0,0,2,0,3
+Massachusetts,Unknown,Non-Junction,2,0,0,0,0,1,0,0,0,2,0,5
+Massachusetts,Unknown,Unknown,0,0,1,0,0,0,0,0,0,0,0,1
+Massachusetts,Unknown,Total,3,0,1,0,0,1,0,0,0,4,0,9
+Massachusetts,Total,Junction,100,73,73,89,87,114,80,74,98,96,74,958
+Massachusetts,Total,Non-Junction,192,231,224,238,221,191,225,198,250,265,221,2456
+Massachusetts,Total,Other,36,31,25,29,22,32,15,55,43,52,30,370
+Massachusetts,Total,Unknown,6,1,5,0,3,1,3,0,2,0,0,21
+Massachusetts,Total,Total,334,336,327,356,333,338,323,327,393,413,325,3805
+Michigan,Interstate,Junction,1,0,0,0,0,1,0,0,0,0,1,3
+Michigan,Interstate,Non-Junction,62,56,53,65,55,67,69,69,81,65,79,721
+Michigan,Interstate,Other,30,31,17,28,21,24,15,25,17,25,20,253
+Michigan,Interstate,Total,93,87,70,93,76,92,84,94,98,90,100,977
+Michigan,Non-Interstate,Junction,213,216,220,298,244,239,266,303,322,303,294,2918
+Michigan,Non-Interstate,Non-Junction,508,467,554,525,541,514,495,553,564,583,541,5845
+Michigan,Non-Interstate,Other,58,58,44,60,74,61,50,59,78,68,76,686
+Michigan,Non-Interstate,Unknown,0,1,0,0,1,0,1,1,1,0,0,5
+Michigan,Non-Interstate,Total,779,742,818,883,860,814,812,916,965,954,911,9454
+Michigan,Unknown,Junction,1,0,2,1,0,0,1,1,2,1,1,10
+Michigan,Unknown,Non-Junction,2,2,6,4,4,1,5,1,7,9,8,49
+Michigan,Unknown,Other,1,0,0,0,0,0,1,1,1,0,0,4
+Michigan,Unknown,Total,4,2,8,5,4,1,7,3,10,10,9,63
+Michigan,Total,Junction,215,216,222,299,244,240,267,304,324,304,296,2931
+Michigan,Total,Non-Junction,572,525,613,594,600,582,569,623,652,657,628,6615
+Michigan,Total,Other,89,89,61,88,95,85,66,85,96,93,96,943
+Michigan,Total,Unknown,0,1,0,0,1,0,1,1,1,0,0,5
+Michigan,Total,Total,876,831,896,981,940,907,903,1013,1073,1054,1020,10494
+Minnesota,Interstate,Junction,0,3,2,1,3,1,2,0,3,0,0,15
+Minnesota,Interstate,Non-Junction,17,18,13,21,20,20,15,19,24,33,29,229
+Minnesota,Interstate,Other,3,11,12,9,8,7,6,12,8,10,8,94
+Minnesota,Interstate,Total,20,32,27,31,31,28,23,31,35,43,37,338
+Minnesota,Non-Interstate,Junction,105,89,111,113,115,113,117,100,131,142,131,1267
+Minnesota,Non-Interstate,Non-Junction,208,179,221,195,179,185,180,220,261,210,178,2216
+Minnesota,Non-Interstate,Other,18,19,13,16,15,20,11,16,21,17,21,187
+Minnesota,Non-Interstate,Unknown,2,4,1,1,0,1,1,0,0,4,0,14
+Minnesota,Non-Interstate,Total,333,291,346,325,309,319,309,336,413,373,330,3684
+Minnesota,Unknown,Junction,0,0,0,0,0,0,0,1,1,0,0,2
+Minnesota,Unknown,Non-Junction,4,1,2,1,1,2,1,1,2,2,2,19
+Minnesota,Unknown,Unknown,0,0,0,0,0,0,0,0,0,0,1,1
+Minnesota,Unknown,Total,4,1,2,1,1,2,1,2,3,2,3,22
+Minnesota,Total,Junction,105,92,113,114,118,114,119,101,135,142,131,1284
+Minnesota,Total,Non-Junction,229,198,236,217,200,207,196,240,287,245,209,2464
+Minnesota,Total,Other,21,30,25,25,23,27,17,28,29,27,29,281
+Minnesota,Total,Unknown,2,4,1,1,0,1,1,0,0,4,1,15
+Minnesota,Total,Total,357,324,375,357,341,349,333,369,451,418,370,4044
+Mississippi,Interstate,Junction,1,0,1,1,0,0,0,0,0,0,0,3
+Mississippi,Interstate,Non-Junction,52,51,63,76,61,76,74,76,85,77,83,774
+Mississippi,Interstate,Other,8,7,2,2,5,3,6,5,3,1,6,48
+Mississippi,Interstate,Total,61,58,66,79,66,79,80,81,88,78,89,825
+Mississippi,Non-Interstate,Junction,99,94,90,92,94,77,83,106,106,114,108,1063
+Mississippi,Non-Interstate,Non-Junction,383,368,431,436,425,418,385,464,467,428,440,4645
+Mississippi,Non-Interstate,Other,13,22,17,18,23,22,31,29,25,22,22,244
+Mississippi,Non-Interstate,Unknown,0,0,0,0,1,0,1,0,0,0,0,2
+Mississippi,Non-Interstate,Total,495,484,538,546,543,517,500,599,598,564,570,5954
+Mississippi,Unknown,Junction,0,0,0,0,0,0,0,0,1,0,1,2
+Mississippi,Unknown,Non-Junction,2,1,0,0,0,0,0,5,8,4,5,25
+Mississippi,Unknown,Total,2,1,0,0,0,0,0,5,9,4,6,27
+Mississippi,Total,Junction,100,94,91,93,94,77,83,106,107,114,109,1068
+Mississippi,Total,Non-Junction,437,420,494,512,486,494,459,545,560,509,528,5444
+Mississippi,Total,Other,21,29,19,20,28,25,37,34,28,23,28,292
+Mississippi,Total,Unknown,0,0,0,0,1,0,1,0,0,0,0,2
+Mississippi,Total,Total,558,543,604,625,609,596,580,685,695,646,665,6806
+Missouri,Interstate,Junction,1,0,1,0,2,1,1,1,3,2,2,14
+Missouri,Interstate,Non-Junction,65,79,97,95,102,103,104,99,90,109,86,1029
+Missouri,Interstate,Other,16,16,21,20,35,20,28,27,32,35,43,293
+Missouri,Interstate,Unknown,0,0,0,0,0,1,0,0,0,0,0,1
+Missouri,Interstate,Total,82,95,119,115,139,125,133,127,125,146,131,1337
+Missouri,Non-Interstate,Junction,116,124,170,176,168,176,156,175,194,224,193,1872
+Missouri,Non-Interstate,Non-Junction,450,442,473,551,513,517,490,576,558,543,452,5565
+Missouri,Non-Interstate,Other,35,34,40,30,45,30,40,36,50,44,47,431
+Missouri,Non-Interstate,Total,601,600,683,757,726,723,686,787,802,811,692,7868
+Missouri,Unknown,Junction,0,0,0,0,0,0,0,0,1,1,12,14
+Missouri,Unknown,Non-Junction,0,0,1,0,0,0,0,0,2,4,63,70
+Missouri,Unknown,Other,0,1,0,0,0,0,0,0,1,0,7,9
+Missouri,Unknown,Total,0,1,1,0,0,0,0,0,4,5,82,93
+Missouri,Total,Junction,117,124,171,176,170,177,157,176,198,227,207,1900
+Missouri,Total,Non-Junction,515,521,571,646,615,620,594,675,650,656,601,6664
+Missouri,Total,Other,51,51,61,50,80,50,68,63,83,79,97,733
+Missouri,Total,Unknown,0,0,0,0,0,1,0,0,0,0,0,1
+Missouri,Total,Total,683,696,803,872,865,848,819,914,931,962,905,9298
+Montana,Interstate,Junction,0,0,0,0,0,0,0,0,1,0,0,1
+Montana,Interstate,Non-Junction,32,29,27,30,31,23,21,33,45,32,22,325
+Montana,Interstate,Other,2,2,3,0,5,0,3,2,1,0,1,19
+Montana,Interstate,Total,34,31,30,30,36,23,24,35,47,32,23,345
+Montana,Non-Interstate,Junction,20,19,35,15,23,26,22,19,32,32,32,275
+Montana,Non-Interstate,Non-Junction,140,113,131,109,102,111,111,128,133,111,133,1322
+Montana,Non-Interstate,Other,3,12,6,16,7,5,9,6,8,8,5,85
+Montana,Non-Interstate,Unknown,2,0,1,0,1,2,0,1,0,1,0,8
+Montana,Non-Interstate,Total,165,144,173,140,133,144,142,154,173,152,170,1690
+Montana,Unknown,Junction,0,0,0,0,0,0,0,1,1,0,0,2
+Montana,Unknown,Non-Junction,4,1,1,1,0,0,0,0,1,2,3,13
+Montana,Unknown,Total,4,1,1,1,0,0,0,1,2,2,3,15
+Montana,Total,Junction,20,19,35,15,23,26,22,20,34,32,32,278
+Montana,Total,Non-Junction,176,143,159,140,133,134,132,161,179,145,158,1660
+Montana,Total,Other,5,14,9,16,12,5,12,8,9,8,6,104
+Montana,Total,Unknown,2,0,1,0,1,2,0,1,0,1,0,8
+Montana,Total,Total,203,176,204,171,169,167,166,190,222,186,196,2050
+Nebraska,Interstate,Junction,0,1,0,1,0,0,0,0,0,0,0,2
+Nebraska,Interstate,Non-Junction,20,20,16,21,19,24,28,24,20,21,12,225
+Nebraska,Interstate,Other,1,1,2,2,1,0,1,2,5,3,7,25
+Nebraska,Interstate,Total,21,22,18,24,20,24,29,26,25,24,19,252
+Nebraska,Non-Interstate,Junction,44,49,61,60,58,61,55,50,49,69,65,621
+Nebraska,Non-Interstate,Non-Junction,111,113,133,103,122,105,125,138,114,107,114,1285
+Nebraska,Non-Interstate,Other,6,13,6,7,10,11,3,3,4,14,7,84
+Nebraska,Non-Interstate,Total,161,175,200,170,190,177,183,191,167,190,186,1990
+Nebraska,Unknown,Junction,1,1,0,0,0,0,0,0,0,0,0,2
+Nebraska,Unknown,Non-Junction,7,5,0,0,0,0,0,0,0,0,0,12
+Nebraska,Unknown,Other,0,0,0,0,0,0,0,0,0,0,1,1
+Nebraska,Unknown,Total,8,6,0,0,0,0,0,0,0,0,1,15
+Nebraska,Total,Junction,45,51,61,61,58,61,55,50,49,69,65,625
+Nebraska,Total,Non-Junction,138,138,149,124,141,129,153,162,134,128,126,1522
+Nebraska,Total,Other,7,14,8,9,11,11,4,5,9,17,15,110
+Nebraska,Total,Total,190,203,218,194,210,201,212,217,192,214,206,2257
+Nevada,Interstate,Junction,0,0,1,1,1,1,0,1,3,0,0,8
+Nevada,Interstate,Non-Junction,18,27,33,28,19,26,42,35,36,43,29,336
+Nevada,Interstate,Other,9,8,11,11,18,6,3,11,14,10,7,108
+Nevada,Interstate,Total,27,35,45,40,38,33,45,47,53,53,36,452
+Nevada,Non-Interstate,Junction,88,78,82,97,95,99,98,88,115,114,122,1076
+Nevada,Non-Interstate,Non-Junction,108,127,152,143,127,141,124,163,174,188,162,1609
+Nevada,Non-Interstate,Other,18,18,12,14,25,22,16,11,17,29,25,207
+Nevada,Non-Interstate,Unknown,0,0,0,0,0,1,0,0,0,0,0,1
+Nevada,Non-Interstate,Total,214,223,246,254,247,263,238,262,306,331,309,2893
+Nevada,Unknown,Junction,0,0,0,1,1,0,0,0,0,0,1,3
+Nevada,Unknown,Non-Junction,3,10,5,9,5,3,2,0,1,0,3,41
+Nevada,Unknown,Other,1,0,1,0,1,0,0,0,0,0,2,5
+Nevada,Unknown,Total,4,10,6,10,7,3,2,0,1,0,6,49
+Nevada,Total,Junction,88,78,83,99,97,100,98,89,118,114,123,1087
+Nevada,Total,Non-Junction,129,164,190,180,151,170,168,198,211,231,194,1986
+Nevada,Total,Other,28,26,24,25,44,28,19,22,31,39,34,320
+Nevada,Total,Unknown,0,0,0,0,0,1,0,0,0,0,0,1
+Nevada,Total,Total,245,268,297,304,292,299,285,309,360,384,351,3394
+New Hampshire,Interstate,Junction,0,0,0,0,0,0,0,0,0,0,1,1
+New Hampshire,Interstate,Non-Junction,9,9,10,20,12,15,3,1,11,14,12,116
+New Hampshire,Interstate,Other,1,1,2,0,1,3,0,0,0,3,2,13
+New Hampshire,Interstate,Total,10,10,12,20,13,18,3,1,11,17,15,130
+New Hampshire,Non-Interstate,Junction,20,20,14,14,14,18,22,27,18,18,25,210
+New Hampshire,Non-Interstate,Non-Junction,91,57,71,88,68,91,54,62,70,95,76,823
+New Hampshire,Non-Interstate,Other,3,2,6,8,3,7,10,6,6,7,6,64
+New Hampshire,Non-Interstate,Total,114,79,91,110,85,116,86,95,94,120,107,1097
+New Hampshire,Unknown,Junction,0,0,0,0,0,0,0,1,0,0,0,1
+New Hampshire,Unknown,Non-Junction,0,0,0,0,0,0,1,1,1,0,0,3
+New Hampshire,Unknown,Total,0,0,0,0,0,0,1,2,1,0,0,4
+New Hampshire,Total,Junction,20,20,14,14,14,18,22,28,18,18,26,212
+New Hampshire,Total,Non-Junction,100,66,81,108,80,106,58,64,82,109,88,942
+New Hampshire,Total,Other,4,3,8,8,4,10,10,6,6,10,8,77
+New Hampshire,Total,Total,124,89,103,130,98,134,90,98,106,137,122,1231
+New Jersey,Interstate,Junction,0,0,0,0,0,0,1,0,0,0,1,2
+New Jersey,Interstate,Non-Junction,33,46,35,41,57,47,41,53,69,49,48,519
+New Jersey,Interstate,Other,14,11,11,16,9,10,8,4,4,11,14,112
+New Jersey,Interstate,Unknown,0,0,0,0,0,0,0,2,0,0,0,2
+New Jersey,Interstate,Total,47,57,46,57,66,57,50,59,73,60,63,635
+New Jersey,Non-Interstate,Junction,173,179,201,207,184,181,193,161,218,199,185,2081
+New Jersey,Non-Interstate,Non-Junction,250,245,233,252,288,242,251,291,334,343,280,3009
+New Jersey,Non-Interstate,Other,38,36,36,45,44,39,30,32,32,40,34,406
+New Jersey,Non-Interstate,Unknown,0,2,1,5,1,3,0,1,0,0,2,15
+New Jersey,Non-Interstate,Total,461,462,471,509,517,465,474,485,584,582,501,5511
+New Jersey,Unknown,Junction,0,0,2,0,4,1,0,2,0,1,3,13
+New Jersey,Unknown,Non-Junction,0,4,2,4,4,1,0,3,4,3,4,29
+New Jersey,Unknown,Other,0,0,0,0,0,0,0,0,1,0,2,3
+New Jersey,Unknown,Total,0,4,4,4,8,2,0,5,5,4,9,45
+New Jersey,Total,Junction,173,179,203,207,188,182,194,163,218,200,189,2096
+New Jersey,Total,Non-Junction,283,295,270,297,349,290,292,347,407,395,332,3557
+New Jersey,Total,Other,52,47,47,61,53,49,38,36,37,51,50,521
+New Jersey,Total,Unknown,0,2,1,5,1,3,0,3,0,0,2,17
+New Jersey,Total,Total,508,523,521,570,591,524,524,549,662,646,573,6191
+New Mexico,Interstate,Junction,1,0,1,2,2,2,0,0,0,2,0,10
+New Mexico,Interstate,Non-Junction,58,68,55,75,57,41,67,75,80,75,89,740
+New Mexico,Interstate,Other,6,5,4,12,7,10,6,9,15,17,14,105
+New Mexico,Interstate,Total,65,73,60,89,66,53,73,84,95,94,103,855
+New Mexico,Non-Interstate,Junction,58,51,58,65,85,77,95,61,99,89,72,810
+New Mexico,Non-Interstate,Non-Junction,134,185,133,192,175,199,185,203,212,220,216,2054
+New Mexico,Non-Interstate,Other,15,13,8,11,10,20,15,14,18,15,11,150
+New Mexico,Non-Interstate,Unknown,1,1,1,0,0,0,1,0,2,0,0,6
+New Mexico,Non-Interstate,Total,208,250,200,268,270,296,296,278,331,324,299,3020
+New Mexico,Unknown,Junction,0,1,1,0,0,0,0,0,0,0,0,2
+New Mexico,Unknown,Non-Junction,2,11,8,4,4,2,0,3,1,0,0,35
+New Mexico,Unknown,Other,0,2,0,0,1,0,0,0,0,1,0,4
+New Mexico,Unknown,Unknown,0,3,0,0,0,0,0,0,2,0,0,5
+New Mexico,Unknown,Total,2,17,9,4,5,2,0,3,3,1,0,46
+New Mexico,Total,Junction,59,52,60,67,87,79,95,61,99,91,72,822
+New Mexico,Total,Non-Junction,194,264,196,271,236,242,252,281,293,295,305,2829
+New Mexico,Total,Other,21,20,12,23,18,30,21,23,33,33,25,259
+New Mexico,Total,Unknown,1,4,1,0,0,0,1,0,4,0,0,11
+New Mexico,Total,Total,275,340,269,361,341,351,369,365,429,419,402,3921
+New York,Interstate,Junction,0,4,1,0,1,2,1,1,2,1,3,16
+New York,Interstate,Non-Junction,62,52,60,70,57,48,41,69,65,68,75,667
+New York,Interstate,Other,11,9,11,7,10,7,9,10,20,15,9,118
+New York,Interstate,Total,73,65,72,77,68,57,51,80,87,84,87,801
+New York,Non-Interstate,Junction,448,359,398,368,352,354,325,288,315,335,342,3884
+New York,Non-Interstate,Non-Junction,550,530,561,494,468,457,460,540,639,622,562,5883
+New York,Non-Interstate,Other,53,26,30,42,50,42,41,49,56,68,41,498
+New York,Non-Interstate,Unknown,0,0,0,0,1,0,1,1,0,0,0,3
+New York,Non-Interstate,Total,1051,915,989,904,871,853,827,878,1010,1025,945,10268
+New York,Unknown,Non-Junction,0,0,0,0,0,0,1,0,1,2,1,5
+New York,Total,Junction,448,363,399,368,353,356,326,289,317,336,345,3900
+New York,Total,Non-Junction,612,582,621,564,525,505,502,609,705,692,638,6555
+New York,Total,Other,64,35,41,49,60,49,50,59,76,83,50,616
+New York,Total,Unknown,0,0,0,0,1,0,1,1,0,0,0,3
+New York,Total,Total,1124,980,1061,981,939,910,879,958,1098,1111,1033,11074
+North Carolina,Interstate,Junction,0,1,2,4,1,0,0,2,3,1,0,14
+North Carolina,Interstate,Non-Junction,66,90,91,117,122,99,73,93,103,122,139,1115
+North Carolina,Interstate,Other,9,8,11,11,9,21,38,41,57,18,11,234
+North Carolina,Interstate,Unknown,1,0,0,0,0,0,3,0,0,0,0,4
+North Carolina,Interstate,Total,76,99,104,132,132,120,114,136,163,141,150,1367
+North Carolina,Non-Interstate,Junction,221,213,240,224,246,233,256,252,307,311,299,2802
+North Carolina,Non-Interstate,Non-Junction,829,814,878,934,884,893,900,967,1018,990,938,10045
+North Carolina,Non-Interstate,Other,57,57,52,53,40,70,74,57,73,57,62,652
+North Carolina,Non-Interstate,Unknown,0,2,0,0,1,0,11,1,0,2,0,17
+North Carolina,Non-Interstate,Total,1107,1086,1170,1211,1171,1196,1241,1277,1398,1360,1299,13516
+North Carolina,Unknown,Junction,1,0,0,0,0,0,0,0,0,0,0,1
+North Carolina,Unknown,Non-Junction,4,3,0,5,3,5,3,2,1,0,0,26
+North Carolina,Unknown,Other,0,0,1,0,0,0,0,0,1,0,0,2
+North Carolina,Unknown,Total,5,3,1,5,3,5,3,2,2,0,0,29
+North Carolina,Total,Junction,222,214,242,228,247,233,256,254,310,312,299,2817
+North Carolina,Total,Non-Junction,899,907,969,1056,1009,997,976,1062,1122,1112,1077,11186
+North Carolina,Total,Other,66,65,64,64,49,91,112,98,131,75,73,888
+North Carolina,Total,Unknown,1,2,0,0,1,0,14,1,0,2,0,21
+North Carolina,Total,Total,1188,1188,1275,1348,1306,1321,1358,1415,1563,1501,1449,14912
+North Dakota,Interstate,Junction,0,0,0,0,0,0,1,0,2,2,0,5
+North Dakota,Interstate,Non-Junction,5,9,12,7,6,10,2,9,9,11,10,90
+North Dakota,Interstate,Other,1,2,3,4,2,1,2,2,0,1,0,18
+North Dakota,Interstate,Total,6,11,15,11,8,11,5,11,11,14,10,113
+North Dakota,Non-Interstate,Junction,27,31,20,17,23,15,21,23,20,18,31,246
+North Dakota,Non-Interstate,Non-Junction,92,74,73,70,65,63,59,54,47,56,50,703
+North Dakota,Non-Interstate,Other,8,5,3,4,6,6,3,7,4,8,4,58
+North Dakota,Non-Interstate,Unknown,0,0,0,0,1,0,2,1,2,0,1,7
+North Dakota,Non-Interstate,Total,127,110,96,91,95,84,85,85,73,82,86,1014
+North Dakota,Unknown,Junction,0,0,0,0,1,0,0,0,0,0,0,1
+North Dakota,Unknown,Non-Junction,0,0,0,0,0,0,0,0,1,0,0,1
+North Dakota,Unknown,Unknown,0,0,0,0,2,0,1,0,0,0,0,3
+North Dakota,Unknown,Total,0,0,0,0,3,0,1,0,1,0,0,5
+North Dakota,Total,Junction,27,31,20,17,24,15,22,23,22,20,31,252
+North Dakota,Total,Non-Junction,97,83,85,77,71,73,61,63,57,67,60,794
+North Dakota,Total,Other,9,7,6,8,8,7,5,9,4,9,4,76
+North Dakota,Total,Unknown,0,0,0,0,3,0,3,1,2,0,1,10
+North Dakota,Total,Total,133,121,111,102,106,95,91,96,85,96,96,1132
+Ohio,Interstate,Junction,1,0,0,0,1,0,0,1,0,0,0,3
+Ohio,Interstate,Non-Junction,78,64,82,81,82,74,77,100,99,114,97,948
+Ohio,Interstate,Other,14,37,39,34,27,25,34,40,34,38,41,363
+Ohio,Interstate,Unknown,0,0,0,1,0,0,0,0,0,0,0,1
+Ohio,Interstate,Total,93,101,121,116,110,99,111,141,133,152,138,1315
+Ohio,Non-Interstate,Junction,200,228,275,292,295,267,270,301,356,313,299,3096
+Ohio,Non-Interstate,Non-Junction,559,534,563,565,607,553,595,631,668,641,624,6540
+Ohio,Non-Interstate,Other,59,45,64,69,77,61,56,52,74,68,85,710
+Ohio,Non-Interstate,Unknown,0,2,1,2,0,1,1,0,0,0,1,8
+Ohio,Non-Interstate,Total,818,809,903,928,979,882,922,984,1098,1022,1009,10354
+Ohio,Unknown,Junction,1,3,1,2,1,6,2,6,1,2,0,25
+Ohio,Unknown,Non-Junction,5,3,3,6,4,9,4,15,8,3,2,62
+Ohio,Unknown,Other,0,1,1,0,0,0,0,8,1,0,0,11
+Ohio,Unknown,Unknown,0,0,0,1,0,0,0,0,1,0,1,3
+Ohio,Unknown,Total,6,7,5,9,5,15,6,29,11,5,3,101
+Ohio,Total,Junction,202,231,276,294,297,273,272,308,357,315,299,3124
+Ohio,Total,Non-Junction,642,601,648,652,693,636,676,746,775,758,723,7550
+Ohio,Total,Other,73,83,104,103,104,86,90,100,109,106,126,1084
+Ohio,Total,Unknown,0,2,1,4,0,1,1,0,1,0,2,12
+Ohio,Total,Total,917,917,1029,1053,1094,996,1039,1154,1242,1179,1150,11770
+Oklahoma,Interstate,Junction,0,0,0,0,0,0,2,1,1,1,0,5
+Oklahoma,Interstate,Non-Junction,73,58,68,80,66,73,57,93,83,79,86,816
+Oklahoma,Interstate,Other,8,10,11,2,8,8,9,10,6,4,12,88
+Oklahoma,Interstate,Total,81,68,79,82,74,81,68,104,90,84,98,909
+Oklahoma,Non-Interstate,Junction,127,126,104,125,117,153,117,109,138,153,142,1411
+Oklahoma,Non-Interstate,Non-Junction,378,356,374,390,382,333,372,362,426,369,367,4109
+Oklahoma,Non-Interstate,Other,35,39,33,30,40,35,26,25,26,33,29,351
+Oklahoma,Non-Interstate,Unknown,0,0,0,0,0,0,0,0,0,4,1,5
+Oklahoma,Non-Interstate,Total,540,521,511,545,539,521,515,496,590,559,539,5876
+Oklahoma,Unknown,Junction,0,0,0,1,0,0,0,0,0,0,0,1
+Oklahoma,Unknown,Non-Junction,0,0,0,0,0,0,0,0,1,0,5,6
+Oklahoma,Unknown,Other,0,0,0,0,0,1,1,0,0,0,1,3
+Oklahoma,Unknown,Total,0,0,0,1,0,1,1,0,1,0,6,10
+Oklahoma,Total,Junction,127,126,104,126,117,153,119,110,139,154,142,1417
+Oklahoma,Total,Non-Junction,451,414,442,470,448,406,429,455,510,448,458,4931
+Oklahoma,Total,Other,43,49,44,32,48,44,36,35,32,37,42,442
+Oklahoma,Total,Unknown,0,0,0,0,0,0,0,0,0,4,1,5
+Oklahoma,Total,Total,621,589,590,628,613,603,584,600,681,643,643,6795
+Oregon,Interstate,Junction,0,4,2,1,0,0,0,1,1,0,1,10
+Oregon,Interstate,Non-Junction,19,28,27,32,30,26,31,33,46,43,35,350
+Oregon,Interstate,Other,1,4,2,8,7,3,3,0,6,3,5,42
+Oregon,Interstate,Total,20,36,31,41,37,29,34,34,53,46,41,402
+Oregon,Non-Interstate,Junction,66,61,84,82,67,88,91,89,99,108,119,954
+Oregon,Non-Interstate,Non-Junction,198,219,284,309,287,303,321,321,371,378,351,3342
+Oregon,Non-Interstate,Other,8,6,10,16,9,25,9,13,29,21,21,167
+Oregon,Non-Interstate,Unknown,0,0,1,0,3,1,0,3,0,0,2,10
+Oregon,Non-Interstate,Total,272,286,379,407,366,417,421,426,499,507,493,4473
+Oregon,Unknown,Non-Junction,0,0,1,0,0,0,0,0,0,0,0,1
+Oregon,Total,Junction,66,65,86,83,67,88,91,90,100,108,120,964
+Oregon,Total,Non-Junction,217,247,312,341,317,329,352,354,417,421,386,3693
+Oregon,Total,Other,9,10,12,24,16,28,12,13,35,24,26,209
+Oregon,Total,Unknown,0,0,1,0,3,1,0,3,0,0,2,10
+Oregon,Total,Total,292,322,411,448,403,446,455,460,552,553,534,4876
+Pennsylvania,Interstate,Junction,0,2,2,0,1,0,2,2,5,2,2,18
+Pennsylvania,Interstate,Non-Junction,96,91,84,92,99,78,77,82,95,90,84,968
+Pennsylvania,Interstate,Other,9,12,18,11,20,22,11,20,23,21,20,187
+Pennsylvania,Interstate,Unknown,1,0,0,0,0,0,0,0,0,0,0,1
+Pennsylvania,Interstate,Total,106,105,104,103,120,100,90,104,123,113,106,1174
+Pennsylvania,Non-Interstate,Junction,217,238,214,256,236,252,236,266,287,293,278,2773
+Pennsylvania,Non-Interstate,Non-Junction,732,690,666,665,662,680,597,614,670,612,675,7263
+Pennsylvania,Non-Interstate,Other,64,74,64,64,63,66,61,71,69,71,70,737
+Pennsylvania,Non-Interstate,Total,1013,1002,944,985,961,998,894,951,1026,976,1023,10773
+Pennsylvania,Unknown,Junction,0,0,12,0,0,2,0,1,0,1,1,17
+Pennsylvania,Unknown,Non-Junction,0,0,39,0,1,1,2,1,4,1,3,52
+Pennsylvania,Unknown,Other,0,0,3,0,1,2,4,3,0,1,0,14
+Pennsylvania,Unknown,Total,0,0,54,0,2,5,6,5,4,3,4,83
+Pennsylvania,Total,Junction,217,240,228,256,237,254,238,269,292,296,281,2808
+Pennsylvania,Total,Non-Junction,828,781,789,757,762,759,676,697,769,703,762,8283
+Pennsylvania,Total,Other,73,86,85,75,84,90,76,94,92,93,90,938
+Pennsylvania,Total,Unknown,1,0,0,0,0,0,0,0,0,0,0,1
+Pennsylvania,Total,Total,1119,1107,1102,1088,1083,1103,990,1060,1153,1092,1133,12030
+Rhode Island,Interstate,Junction,0,1,0,0,0,0,0,0,0,0,0,1
+Rhode Island,Interstate,Non-Junction,6,4,10,7,13,12,6,12,9,10,6,95
+Rhode Island,Interstate,Other,4,1,0,1,0,0,1,2,1,0,0,10
+Rhode Island,Interstate,Total,10,6,10,8,13,12,7,14,10,10,6,106
+Rhode Island,Non-Interstate,Junction,18,9,6,7,13,11,8,19,11,12,20,134
+Rhode Island,Non-Interstate,Non-Junction,30,33,21,32,46,30,36,29,36,29,37,359
+Rhode Island,Non-Interstate,Other,3,3,4,1,5,2,2,3,4,0,3,30
+Rhode Island,Non-Interstate,Unknown,0,0,0,0,0,0,0,1,0,0,0,1
+Rhode Island,Non-Interstate,Total,51,45,31,40,64,43,46,52,51,41,60,524
+Rhode Island,Unknown,Non-Junction,1,0,0,0,0,0,0,0,0,0,1,2
+Rhode Island,Unknown,Unknown,0,0,0,0,0,1,0,0,0,0,0,1
+Rhode Island,Unknown,Total,1,0,0,0,0,1,0,0,0,0,1,3
+Rhode Island,Total,Junction,18,10,6,7,13,11,8,19,11,12,20,135
+Rhode Island,Total,Non-Junction,37,37,31,39,59,42,42,41,45,39,44,456
+Rhode Island,Total,Other,7,4,4,2,5,2,3,5,5,0,3,40
+Rhode Island,Total,Unknown,0,0,0,0,0,1,0,1,0,0,0,2
+Rhode Island,Total,Total,62,51,41,48,77,56,53,66,61,51,67,633
+South Carolina,Interstate,Non-Junction,55,94,95,86,94,122,99,94,117,88,97,1041
+South Carolina,Interstate,Other,4,2,4,5,4,9,5,9,8,8,6,64
+South Carolina,Interstate,Total,59,96,99,91,98,131,104,103,125,96,103,1105
+South Carolina,Non-Interstate,Junction,133,137,190,219,170,191,169,180,211,207,207,2014
+South Carolina,Non-Interstate,Non-Junction,444,440,576,569,594,587,591,654,704,664,623,6446
+South Carolina,Non-Interstate,Other,40,33,46,62,63,60,63,27,72,52,43,561
+South Carolina,Non-Interstate,Total,617,610,812,850,827,838,823,861,987,923,873,9021
+South Carolina,Unknown,Junction,1,2,0,0,0,0,0,0,0,0,0,3
+South Carolina,Unknown,Non-Junction,40,45,0,0,0,0,0,0,0,0,0,85
+South Carolina,Unknown,Other,2,3,0,0,0,0,0,0,0,0,0,5
+South Carolina,Unknown,Total,43,50,0,0,0,0,0,0,0,0,0,93
+South Carolina,Total,Junction,134,139,190,219,170,191,169,180,211,207,207,2017
+South Carolina,Total,Non-Junction,539,579,671,655,688,709,690,748,821,752,720,7572
+South Carolina,Total,Other,46,38,50,67,67,69,68,36,80,60,49,630
+South Carolina,Total,Total,719,756,911,941,925,969,927,964,1112,1019,976,10219
+South Dakota,Interstate,Non-Junction,14,8,20,8,11,9,12,15,16,16,21,150
+South Dakota,Interstate,Other,3,1,5,4,3,5,0,1,1,1,1,25
+South Dakota,Interstate,Unknown,0,0,0,0,1,0,0,1,1,0,0,3
+South Dakota,Interstate,Total,17,9,25,12,15,14,12,17,18,17,22,178
+South Dakota,Non-Interstate,Junction,30,19,21,15,18,20,21,29,21,29,25,248
+South Dakota,Non-Interstate,Non-Junction,68,88,65,74,76,72,51,75,89,72,75,805
+South Dakota,Non-Interstate,Other,5,7,5,2,2,4,4,11,3,3,6,52
+South Dakota,Non-Interstate,Total,103,114,91,91,96,96,76,115,113,104,106,1105
+South Dakota,Unknown,Junction,0,1,0,0,0,0,0,0,0,0,0,1
+South Dakota,Unknown,Non-Junction,1,1,0,0,0,0,0,0,0,0,0,2
+South Dakota,Unknown,Total,1,2,0,0,0,0,0,0,0,0,0,3
+South Dakota,Total,Junction,30,20,21,15,18,20,21,29,21,29,25,249
+South Dakota,Total,Non-Junction,83,97,85,82,87,81,63,90,105,88,96,957
+South Dakota,Total,Other,8,8,10,6,5,9,4,12,4,4,7,77
+South Dakota,Total,Unknown,0,0,0,0,1,0,0,1,1,0,0,3
+South Dakota,Total,Total,121,125,116,103,111,110,88,132,131,121,128,1286
+Tennessee,Interstate,Junction,0,1,0,0,2,0,1,0,2,0,1,7
+Tennessee,Interstate,Non-Junction,112,106,105,112,106,114,136,159,179,162,152,1443
+Tennessee,Interstate,Other,15,13,19,23,29,6,12,17,17,13,11,175
+Tennessee,Interstate,Unknown,0,0,0,1,0,0,0,0,0,0,0,1
+Tennessee,Interstate,Total,127,120,124,136,137,120,149,176,198,175,164,1626
+Tennessee,Non-Interstate,Junction,177,143,150,148,146,183,190,211,236,234,249,2067
+Tennessee,Non-Interstate,Non-Junction,557,577,567,616,593,624,659,671,731,752,743,7090
+Tennessee,Non-Interstate,Other,50,52,44,58,65,45,42,59,64,52,62,593
+Tennessee,Non-Interstate,Unknown,0,0,1,0,0,1,0,2,0,1,0,5
+Tennessee,Non-Interstate,Total,784,772,762,822,804,853,891,943,1031,1039,1054,9755
+Tennessee,Unknown,Non-Junction,0,1,2,4,1,0,1,0,0,0,0,9
+Tennessee,Unknown,Other,0,0,0,0,0,0,0,0,0,0,1,1
+Tennessee,Unknown,Total,0,1,2,4,1,0,1,0,0,0,1,10
+Tennessee,Total,Junction,177,144,150,148,148,183,191,211,238,234,250,2074
+Tennessee,Total,Non-Junction,669,684,674,732,700,738,796,830,910,914,895,8542
+Tennessee,Total,Other,65,65,63,81,94,51,54,76,81,65,74,769
+Tennessee,Total,Unknown,0,0,1,1,0,1,0,2,0,1,0,6
+Tennessee,Total,Total,911,893,888,962,942,973,1041,1119,1229,1214,1219,11391
+Texas,Interstate,Junction,22,36,29,41,28,8,18,3,8,10,15,218
+Texas,Interstate,Non-Junction,358,389,425,429,395,382,343,339,370,363,292,4085
+Texas,Interstate,Other,127,114,95,162,158,141,185,152,259,222,226,1841
+Texas,Interstate,Unknown,0,0,0,2,0,2,0,0,0,0,1,5
+Texas,Interstate,Total,507,539,549,634,581,533,546,494,637,595,534,6149
+Texas,Non-Interstate,Junction,572,563,601,620,632,676,659,767,864,869,957,7780
+Texas,Non-Interstate,Non-Junction,1728,1849,1800,1908,1854,1825,1800,1977,2168,2100,1993,21002
+Texas,Non-Interstate,Other,238,227,228,263,276,273,286,278,393,393,378,3233
+Texas,Non-Interstate,Unknown,0,1,3,0,0,0,0,0,1,2,4,11
+Texas,Non-Interstate,Total,2538,2640,2632,2791,2762,2774,2745,3022,3426,3364,3332,32026
+Texas,Unknown,Junction,0,4,1,0,0,0,0,0,2,2,0,9
+Texas,Unknown,Non-Junction,1,7,7,2,7,2,5,3,5,5,6,50
+Texas,Unknown,Other,1,0,1,0,2,2,0,2,0,0,2,10
+Texas,Unknown,Unknown,0,0,0,0,0,0,0,1,0,0,0,1
+Texas,Unknown,Total,2,11,9,2,9,4,5,6,7,7,8,70
+Texas,Total,Junction,594,603,631,661,660,684,677,770,874,881,972,8007
+Texas,Total,Non-Junction,2087,2245,2232,2339,2256,2209,2148,2319,2543,2468,2291,25137
+Texas,Total,Other,366,341,324,425,436,416,471,432,652,615,606,5084
+Texas,Total,Unknown,0,1,3,2,0,2,0,1,1,2,5,17
+Texas,Total,Total,3047,3190,3190,3427,3352,3311,3296,3522,4070,3966,3874,38245
+Utah,Interstate,Junction,0,0,0,1,0,0,0,0,0,0,1,2
+Utah,Interstate,Non-Junction,35,44,54,47,40,38,44,40,54,38,28,462
+Utah,Interstate,Other,12,12,2,3,2,4,6,3,9,15,15,83
+Utah,Interstate,Total,47,56,56,51,42,42,50,43,63,53,44,547
+Utah,Non-Interstate,Junction,36,65,60,72,58,61,49,79,80,83,73,716
+Utah,Non-Interstate,Non-Junction,107,94,123,124,135,118,113,125,139,144,124,1346
+Utah,Non-Interstate,Other,12,6,14,9,8,11,10,8,15,16,10,119
+Utah,Non-Interstate,Unknown,0,0,1,1,1,3,1,1,0,0,0,8
+Utah,Non-Interstate,Total,155,165,198,206,202,193,173,213,234,243,207,2189
+Utah,Unknown,Non-Junction,0,1,4,2,2,1,1,0,0,0,0,11
+Utah,Unknown,Unknown,0,0,0,0,1,1,1,0,0,0,0,3
+Utah,Unknown,Total,0,1,4,2,3,2,2,0,0,0,0,14
+Utah,Total,Junction,36,65,60,73,58,61,49,79,80,83,74,718
+Utah,Total,Non-Junction,142,139,181,173,177,157,158,165,193,182,152,1819
+Utah,Total,Other,24,18,16,12,10,15,16,11,24,31,25,202
+Utah,Total,Unknown,0,0,1,1,2,4,2,1,0,0,0,11
+Utah,Total,Total,202,222,258,259,247,237,225,256,297,296,251,2750
+Vermont,Interstate,Junction,0,0,0,0,0,1,0,0,0,0,0,1
+Vermont,Interstate,Non-Junction,3,5,7,3,9,6,4,5,8,9,6,65
+Vermont,Interstate,Total,3,5,7,3,9,7,4,5,8,9,6,66
+Vermont,Non-Interstate,Junction,9,5,6,6,13,8,11,22,9,13,11,113
+Vermont,Non-Interstate,Non-Junction,50,30,35,45,41,42,28,30,48,44,43,436
+Vermont,Non-Interstate,Other,1,2,2,3,0,2,1,1,4,7,2,25
+Vermont,Non-Interstate,Total,60,37,43,54,54,52,40,53,61,64,56,574
+Vermont,Unknown,Non-Junction,0,0,0,0,0,1,0,0,0,0,0,1
+Vermont,Unknown,Other,0,0,0,0,0,0,0,0,0,0,1,1
+Vermont,Unknown,Total,0,0,0,0,0,1,0,0,0,0,1,2
+Vermont,Total,Junction,9,5,6,6,13,9,11,22,9,13,11,114
+Vermont,Total,Non-Junction,53,35,42,48,50,49,32,35,56,53,49,502
+Vermont,Total,Other,1,2,2,3,0,2,1,1,4,7,3,26
+Vermont,Total,Total,63,42,50,57,63,60,44,58,69,73,63,642
+Virginia,Interstate,Junction,0,0,0,1,0,0,1,1,0,0,1,4
+Virginia,Interstate,Non-Junction,63,76,80,97,92,94,90,107,126,109,105,1039
+Virginia,Interstate,Other,30,8,16,16,9,13,18,16,22,27,16,191
+Virginia,Interstate,Total,93,84,96,114,101,107,109,124,148,136,122,1234
+Virginia,Non-Interstate,Junction,125,152,156,152,182,162,196,170,183,213,175,1866
+Virginia,Non-Interstate,Non-Junction,417,400,428,400,466,477,431,481,537,552,506,5095
+Virginia,Non-Interstate,Other,39,15,18,15,23,25,22,20,27,39,41,284
+Virginia,Non-Interstate,Unknown,0,0,1,0,0,0,0,0,1,0,0,2
+Virginia,Non-Interstate,Total,581,567,603,567,671,664,649,671,748,804,722,7247
+Virginia,Unknown,Junction,5,2,4,14,3,0,0,0,2,1,1,32
+Virginia,Unknown,Non-Junction,3,6,9,27,8,6,16,0,8,3,7,93
+Virginia,Unknown,Other,0,0,0,0,0,1,0,1,0,0,3,5
+Virginia,Unknown,Total,8,8,13,41,11,7,16,1,10,4,11,130
+Virginia,Total,Junction,130,154,160,167,185,162,197,171,185,214,177,1902
+Virginia,Total,Non-Junction,483,482,517,524,566,577,537,588,671,664,618,6227
+Virginia,Total,Other,69,23,34,31,32,39,40,37,49,66,60,480
+Virginia,Total,Unknown,0,0,1,0,0,0,0,0,1,0,0,2
+Virginia,Total,Total,682,659,712,722,783,778,774,796,906,944,855,8611
+Washington,Interstate,Junction,2,1,1,1,0,1,3,3,2,1,2,17
+Washington,Interstate,Non-Junction,33,29,50,56,68,56,50,41,71,76,62,592
+Washington,Interstate,Other,8,6,9,7,12,12,6,10,14,7,14,105
+Washington,Interstate,Total,43,36,60,64,80,69,59,54,87,84,78,714
+Washington,Non-Interstate,Junction,89,78,135,136,120,111,125,164,158,180,171,1467
+Washington,Non-Interstate,Non-Junction,244,227,278,271,293,286,303,284,330,388,442,3346
+Washington,Non-Interstate,Other,17,13,23,29,31,17,18,28,27,41,31,275
+Washington,Non-Interstate,Unknown,0,0,0,0,1,1,0,1,0,0,0,3
+Washington,Non-Interstate,Total,350,318,436,436,445,415,446,477,515,609,644,5091
+Washington,Unknown,Junction,3,42,0,0,0,1,1,0,0,0,1,48
+Washington,Unknown,Non-Junction,4,33,2,2,7,5,6,8,5,8,9,89
+Washington,Unknown,Other,1,0,1,1,2,0,1,0,0,0,1,7
+Washington,Unknown,Unknown,0,0,0,1,0,0,0,0,0,0,0,1
+Washington,Unknown,Total,8,75,3,4,9,6,8,8,5,8,11,145
+Washington,Total,Junction,94,121,136,137,120,113,129,167,160,181,174,1532
+Washington,Total,Non-Junction,281,289,330,329,368,347,359,333,406,472,513,4027
+Washington,Total,Other,26,19,33,37,45,29,25,38,41,48,46,387
+Washington,Total,Unknown,0,0,0,1,1,1,0,1,0,0,0,4
+Washington,Total,Total,401,429,499,504,534,490,513,539,607,701,733,5950
+West Virginia,Interstate,Junction,0,0,0,0,0,0,0,1,0,0,0,1
+West Virginia,Interstate,Non-Junction,41,28,26,36,26,34,25,24,33,31,21,325
+West Virginia,Interstate,Other,2,3,1,3,2,4,1,1,2,1,2,22
+West Virginia,Interstate,Total,43,31,27,39,28,38,26,26,35,32,23,348
+West Virginia,Non-Interstate,Junction,34,27,27,31,38,32,28,32,30,22,33,334
+West Virginia,Non-Interstate,Non-Junction,219,168,184,172,202,179,181,178,188,192,169,2032
+West Virginia,Non-Interstate,Other,9,16,7,7,9,13,5,6,6,4,7,89
+West Virginia,Non-Interstate,Unknown,0,0,1,0,0,3,1,0,0,0,1,6
+West Virginia,Non-Interstate,Total,262,211,219,210,249,227,215,216,224,218,210,2461
+West Virginia,Unknown,Junction,0,0,0,0,0,0,1,1,0,0,0,2
+West Virginia,Unknown,Non-Junction,0,0,0,1,3,0,5,6,0,0,0,15
+West Virginia,Unknown,Total,0,0,0,1,3,0,6,7,0,0,0,17
+West Virginia,Total,Junction,34,27,27,31,38,32,29,34,30,22,33,337
+West Virginia,Total,Non-Junction,260,196,210,209,231,213,211,208,221,223,190,2372
+West Virginia,Total,Other,11,19,8,10,11,17,6,7,8,5,9,111
+West Virginia,Total,Unknown,0,0,1,0,0,3,1,0,0,0,1,6
+West Virginia,Total,Total,305,242,246,250,280,265,247,249,259,250,233,2826
+Wisconsin,Interstate,Junction,0,0,0,0,0,0,0,1,2,0,2,5
+Wisconsin,Interstate,Non-Junction,17,15,26,27,28,32,35,29,44,45,30,328
+Wisconsin,Interstate,Other,10,8,8,10,11,16,9,2,6,11,7,98
+Wisconsin,Interstate,Total,27,23,34,37,39,48,44,32,52,56,39,431
+Wisconsin,Non-Interstate,Junction,120,133,139,151,162,122,131,152,162,153,166,1591
+Wisconsin,Non-Interstate,Non-Junction,315,276,315,321,331,325,316,349,336,317,294,3495
+Wisconsin,Non-Interstate,Other,42,26,34,29,23,33,30,22,20,30,27,316
+Wisconsin,Non-Interstate,Unknown,0,0,0,0,0,0,0,1,0,0,1,2
+Wisconsin,Non-Interstate,Total,477,435,488,501,516,480,477,524,518,500,488,5404
+Wisconsin,Unknown,Junction,1,0,0,1,0,0,0,0,0,0,1,3
+Wisconsin,Unknown,Non-Junction,2,1,0,3,1,3,5,3,2,0,1,21
+Wisconsin,Unknown,Other,0,0,1,2,1,0,1,0,0,0,1,6
+Wisconsin,Unknown,Total,3,1,1,6,2,3,6,3,2,0,3,30
+Wisconsin,Total,Junction,121,133,139,152,162,122,131,153,164,153,169,1599
+Wisconsin,Total,Non-Junction,334,292,341,351,360,360,356,381,382,362,325,3844
+Wisconsin,Total,Other,52,34,43,41,35,49,40,24,26,41,35,420
+Wisconsin,Total,Unknown,0,0,0,0,0,0,0,1,0,0,1,2
+Wisconsin,Total,Total,507,459,523,544,557,531,527,559,572,556,530,5865
+Wyoming,Interstate,Junction,0,0,0,1,0,0,0,0,0,0,0,1
+Wyoming,Interstate,Non-Junction,18,26,25,33,28,22,32,24,17,25,34,284
+Wyoming,Interstate,Other,2,4,0,1,1,4,7,3,4,4,8,38
+Wyoming,Interstate,Total,20,30,25,35,29,26,39,27,21,29,42,323
+Wyoming,Non-Interstate,Junction,7,12,14,7,12,8,10,10,7,10,10,107
+Wyoming,Non-Interstate,Non-Junction,46,81,87,55,64,62,65,71,70,72,62,735
+Wyoming,Non-Interstate,Other,2,8,1,3,0,3,5,5,2,4,2,35
+Wyoming,Non-Interstate,Total,55,101,102,65,76,73,80,86,79,86,74,877
+Wyoming,Unknown,Non-Junction,0,0,2,0,0,1,1,1,2,3,5,15
+Wyoming,Total,Junction,7,12,14,8,12,8,10,10,7,10,10,108
+Wyoming,Total,Non-Junction,64,107,114,88,92,85,98,96,89,100,101,1034
+Wyoming,Total,Other,4,12,1,4,1,7,12,8,6,8,10,73
+Wyoming,Total,Total,75,131,129,100,105,100,120,114,102,118,121,1215
+Total,Interstate,Junction,51,64,66,80,67,48,61,55,68,55,56,671
+Total,Interstate,Non-Junction,2892,2887,3180,3634,3395,3438,3337,3498,3895,3794,3460,37410
+Total,Interstate,Other,701,681,699,777,812,777,784,890,1093,1190,1031,9435
+Total,Interstate,Unknown,6,1,2,4,3,4,4,8,2,2,1,37
+Total,Interstate,Total,3650,3633,3947,4495,4277,4267,4186,4451,5058,5041,4548,47553
+Total,Non-Interstate,Junction,6933,6970,7794,8441,8513,8298,8357,8741,9667,9896,9615,93225
+Total,Non-Interstate,Non-Junction,17764,17493,18804,19818,19696,19344,18978,20750,22664,22033,20929,218273
+Total,Non-Interstate,Other,1665,1634,1675,1783,1905,1838,1732,1733,2170,2209,2147,20491
+Total,Non-Interstate,Unknown,42,72,55,42,54,71,71,55,58,87,85,692
+Total,Non-Interstate,Total,26404,26169,28328,30084,30168,29551,29138,31279,34559,34225,32776,332681
+Total,Unknown,Junction,21,64,66,24,14,15,26,28,19,15,53,345
+Total,Unknown,Non-Junction,113,174,177,130,78,65,110,119,115,107,221,1409
+Total,Unknown,Other,9,9,15,7,11,9,11,19,11,8,29,138
+Total,Unknown,Unknown,5,7,5,8,12,12,16,39,23,26,27,180
+Total,Unknown,Total,148,254,263,169,115,101,163,205,168,156,330,2072
+Total,Total,Junction,7005,7098,7926,8545,8594,8361,8444,8824,9754,9966,9724,94241
+Total,Total,Non-Junction,20769,20554,22161,23582,23169,22847,22425,24367,26674,25934,24610,257092
+Total,Total,Other,2375,2324,2389,2567,2728,2624,2527,2642,3274,3407,3207,30064
+Total,Total,Unknown,53,80,62,54,69,87,91,102,83,115,113,909
+Total,Total,Total,30202,30056,32538,34748,34560,33919,33487,35935,39785,39422,37654,382306
